@@ -5,8 +5,6 @@ This tutorial is developed in order to provide to the reader free tools for impl
 1. Mesh generation. The Mesh generation file is rfa-atrial-wall.geo
 2. Solving the RFA problem using Finite Element Method (FEM). The file for solving the RFA problem is script.py.
 
----
-
 ### How to use
 - Clone or download the repository.
 
