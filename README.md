@@ -1,4 +1,4 @@
-# Tutorial for the book chapter: Radiofrequency Ablation
+# Complementary material for Chapter 6 (Radiofrequency Ablation)
 
 This tutorial is developed in order to provide to the reader free tools for implementing a simulation of Radiofrequency. We divide the tutorial into two parts:
 
