@@ -3,7 +3,8 @@
 This tutorial is developed in order to provide to the reader free tools for implementing a simulation of Radiofrequency. We divide the tutorial into two parts:
 
 1. [Mesh generation](https://github.com/rirastorza/RFA-tutorial/blob/master/mesh%20generation/meshgenration.ipynb). The Mesh generation file is rfa-atrial-wall.geo
-2. [Solving the RFA problem using Finite Element Method (FEM)](https://github.com/rirastorza/RFA-tutorial/blob/master/solving%20by%20fem/solvingbyfem.ipynb). The file for solving the RFA problem is script.py.
+2. [Solving the RFA problem using Finite Element Method (FEM)](https://github.com/rirastorza/RFA-tutorial/blob/master/solving%20by%20fem/solvingbyfem.ipynb). Some theory and code.
+3. [Run a simulation](https://github.com/rirastorza/RFA-tutorial/blob/master/run/coding.ipynb).
 
 ### How to use
 - Clone or download the repository.
