@@ -6,6 +6,8 @@ This tutorial is developed in order to provide to the reader free tools for impl
 2. [Solving the RFA problem using Finite Element Method (FEM)](https://github.com/rirastorza/RFA-tutorial/blob/master/solving%20by%20fem/solvingbyfem.ipynb). Some theory and code.
 3. [Run a simulation](https://github.com/rirastorza/RFA-tutorial/blob/master/run/coding.ipynb).
 
+The complete Python script (RFA_script.py), Gmsh scrip (rfa-atrial-wall.geo) and converted .xml files can be downloaded from the folder [exmaple](https://github.com/rirastorza/RFA-tutorial/tree/master/example).
+
 ### How to use
 - Clone or download the repository.
 - The Jupyter Notebooks below provide an introduction to the tools for meshing, simulating with FEM, and visualizing RFA models. The Notebooks can be viewed directly in nbviewer. To execute any of the notebooks either locally or in Google Colaboratory, please see [section 3.1](https://github.com/rirastorza/RFA-tutorial/blob/master/run/coding.ipynb) for setup instructions.
