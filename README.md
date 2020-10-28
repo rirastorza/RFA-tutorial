@@ -8,7 +8,7 @@ This tutorial is developed in order to provide to the reader free tools for impl
 
 ### How to use
 - Clone or download the repository.
-- The Jupyter Notebooks below provide an introduction to the tools for meshing, simulating with FEM, and visualizing RFA models. The Notebooks can be viewed directly in nbviewer. To execute any of the notebooks either locally or in Google Colaboratory, please see Chapter 0 for setup instructions.
+- The Jupyter Notebooks below provide an introduction to the tools for meshing, simulating with FEM, and visualizing RFA models. The Notebooks can be viewed directly in nbviewer. To execute any of the notebooks either locally or in Google Colaboratory, please see [section 3.1](https://github.com/rirastorza/RFA-tutorial/blob/master/run/coding.ipynb) for setup instructions.
 
 ---
 
