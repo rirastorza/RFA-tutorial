@@ -6,7 +6,7 @@ This tutorial is developed in order to provide to the reader free tools for impl
 2. [Solving the RFA problem using Finite Element Method (FEM)](https://github.com/rirastorza/RFA-tutorial/blob/master/solving%20by%20fem/solvingbyfem.ipynb). Some theory and code.
 3. [Run a simulation](https://github.com/rirastorza/RFA-tutorial/blob/master/run/coding.ipynb).
 
-The complete Python script (RFA_script.py), Gmsh scrip (rfa-atrial-wall.geo) and converted .xml files can be downloaded from the folder [exmaple](https://github.com/rirastorza/RFA-tutorial/tree/master/example).
+The complete Python script (RFA_script.py), Gmsh scrip (rfa-atrial-wall.geo) and converted .xml files can be downloaded from the folder [example](https://github.com/rirastorza/RFA-tutorial/tree/master/example).
 
 ### How to use
 - Clone or download the repository.
