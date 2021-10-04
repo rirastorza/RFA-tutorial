@@ -1,4 +1,4 @@
-# Complementary material for Chapter 6 (Radiofrequency Ablation)
+# Complementary material for Chapter 5 (Radiofrequency Ablation)
 
 This tutorial aims to provide the reader with free tools for simulating Radiofrequency Ablations. It is divided into three parts:
 1. [Mesh generation using Gmsh](https://github.com/rirastorza/RFA-tutorial/blob/master/mesh%20generation/meshgenration.ipynb). The file can be found at: rfa-atrial-wall.geo
